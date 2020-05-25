@@ -2,6 +2,6 @@
 
 This is a simple face detection demo from the real python tutorial.
 
-The library used in developing the model is Open CV library cascades.
+The library used in developing the model is Open CV library haar cascades.
 
-Upgrading the demo to include live webcam face detection
+Upgraded the demo to include live webcam face detection
